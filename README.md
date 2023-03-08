@@ -1,1 +1,1 @@
-# Visual Studio CODE SETTINGS For Private use
+# Visual Studio Code settings For Private use
